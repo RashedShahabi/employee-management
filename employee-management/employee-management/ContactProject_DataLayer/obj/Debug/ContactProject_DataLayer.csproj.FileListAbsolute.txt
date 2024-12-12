@@ -1,0 +1,48 @@
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.pdb
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.AssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.pdb
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.dll.config
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Documents\Visual Studio 2022\repo\ContactProject\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.CopyComplete
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.AssemblyReference.cache
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.CoreCompileInputs.cache
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.dll
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.pdb
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.dll.config
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.dll
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.pdb
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\bin\Debug\EntityFramework.dll
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\bin\Debug\EntityFramework.xml
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL\ContactProject\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.CopyComplete
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.dll.config
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.dll
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.pdb
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\bin\Debug\EntityFramework.dll
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\bin\Debug\EntityFramework.xml
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.AssemblyReference.cache
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.CoreCompileInputs.cache
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.CopyComplete
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.dll
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_contect_manager\contact_project_FINAL_2\ContactProject_2\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.pdb
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.dll.config
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.dll
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\bin\Debug\ContactProject_DataLayer.pdb
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\obj\Debug\ContactP.60344305.Up2Date
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.dll
+C:\Users\hp\Desktop\پروژه کارشناسی اصلی\آپدیت دفترچه-حاسبداری\contact_project_FINAL_4\ContactProject_4\ContactProject_DataLayer\obj\Debug\ContactProject_DataLayer.pdb
